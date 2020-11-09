@@ -60,35 +60,51 @@
   .fakeimg1 {
     background-image: url("./image/Bloody.jpg");
     background-size: cover;
-
-    width: 100%;
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
     padding: 20px;
   }
 
   .fakeimg2 {
       background-image: url("./image/starport.jpg");
-      width: 100%;
-      padding: 20px;
+      background-size: cover;
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
+    padding: 20px;
   }
   .fakeimg3 {
     background-image: url();
-    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
     padding: 20px;
 }
 .fakeimg4 {
     background-image: url("./image/Persephone.jpg");
-    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
     padding: 20px;
 }
 .fakeimg5 {
     background-image: url("./image/galaxy\ in\ flames.jpg");
-    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
     padding: 20px;
 }
 
 .fakeimg6 {
     background-image: url("./image/zora.jpg");
-    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
     padding: 20px;
 }
 
